@@ -39,5 +39,6 @@
   "bugs": {
     "url": "https://github.com/ezou626/PennPlannerBackend/issues"
   },
-  "homepage": "https://github.com/ezou626/PennPlannerBackend#readme"
+  "homepage": "https://github.com/ezou626/PennPlannerBackend#readme",
+  "type": "module"
 }
