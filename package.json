@@ -21,7 +21,7 @@
   "scripts": {
     "build": "npx tsc",
     "start": "node dist/server.js",
-    "dev": "nodemon server.ts"
+    "dev": "nodemon dist/server.js"
   },
   "repository": {
     "type": "git",
